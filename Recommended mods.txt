@@ -1,0 +1,26 @@
+Augmented Interactions
+----------------------
+https://minecraft.curseforge.com/projects/augmented-interactions/files/2520090
+
+
+Nether Portal Fix
+-----------------
+https://minecraft.curseforge.com/projects/netherportalfix/files/2489643
+
+
+Not Enough Items & dependencies
+-------------------------------
+https://minecraft.curseforge.com/projects/not-enough-items-1-8/files/2509851
+https://minecraft.curseforge.com/projects/codechicken-lib-1-8/files/2509819
+https://minecraft.curseforge.com/projects/jei/files/2511052
+
+
+ReAuth
+------
+https://minecraft.curseforge.com/projects/reauth/files/2491161
+
+
+Twitch Integration & dependencies
+---------------------------------
+https://minecraft.curseforge.com/projects/twitch-integration/files/2489614
+https://minecraft.curseforge.com/projects/chat-tweaks/files/2516540
