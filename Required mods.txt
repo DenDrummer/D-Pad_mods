@@ -1,3 +1,13 @@
+Augmented Interactions
+----------------------
+https://minecraft.curseforge.com/projects/augmented-interactions/files/2520090
+
+
+Biomes O' Plenty
+----------------
+https://minecraft.curseforge.com/projects/biomes-o-plenty/files/2495245
+
+
 Level Up HP & dependencies
 --------------------------
 https://minecraft.curseforge.com/projects/level-up-hp/files/2501739
@@ -5,7 +15,20 @@ https://minecraft.curseforge.com/projects/shadowmc/files/2441500
 https://minecraft.curseforge.com/projects/shadowfacts-forgelin/files/2505090
 
 
-Tinker's Construct & dependencies
+Not Enough Items & dependencies
+-------------------------------
+https://minecraft.curseforge.com/projects/not-enough-items-1-8/files/2509851
+https://minecraft.curseforge.com/projects/codechicken-lib-1-8/files/2509819
+https://minecraft.curseforge.com/projects/jei/files/2511052
+
+
+Streams & dependencies
+----------------------
+https://minecraft.curseforge.com/projects/streams/files/2518778
+https://minecraft.curseforge.com/projects/farseek/files/2518776
+
+
+Tinkers Construct & dependencies
 ---------------------------------
-https://minecraft.curseforge.com/projects/tinkers-construct/files/2518400
+https://minecraft.curseforge.com/projects/tinkers-construct/files/2510691
 https://minecraft.curseforge.com/projects/mantle/files/2474052
