@@ -43,7 +43,8 @@
 		There's different ways to install LiteLoader but I would recommend extracting the jar and putting it in the mods folder.
 		This results in it being loaded as a mod which also loads all litemods in the mods folder.
 		These mods will have (LiteMod) after their name in the 3 files.
-		You can get the liteloader jar directly from here: http://jenkins.liteloader.com/view/1.12.2/job/LiteLoader%201.12.2/
+		Download the installer from here: http://www.liteloader.com/download#snapshot_11220
+		After you did that run the installer and EXTRACT liteloader to the mods folder.
 
 
 2: Joining the server
