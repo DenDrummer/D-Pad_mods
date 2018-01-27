@@ -8,6 +8,11 @@ Biomes O' Plenty
 https://minecraft.curseforge.com/projects/biomes-o-plenty/files/2495245
 
 
+Iron Chests
+-----------
+https://minecraft.curseforge.com/projects/iron-chests/files/2487724
+
+
 Level Up HP & dependencies
 --------------------------
 https://minecraft.curseforge.com/projects/level-up-hp/files/2501739
@@ -22,6 +27,11 @@ https://minecraft.curseforge.com/projects/codechicken-lib-1-8/files/2509819
 https://minecraft.curseforge.com/projects/jei/files/2511052
 
 
+Secret Rooms
+------------
+https://minecraft.curseforge.com/projects/secretroomsmod/files/2524254
+
+
 Streams & dependencies
 ----------------------
 https://minecraft.curseforge.com/projects/streams/files/2518778
@@ -32,3 +42,8 @@ Tinkers Construct & dependencies
 ---------------------------------
 https://minecraft.curseforge.com/projects/tinkers-construct/files/2510691
 https://minecraft.curseforge.com/projects/mantle/files/2474052
+
+
+Treecapitator
+-------------
+http://www.9minecraft.net/treecapitator-mod/ (1.12.2 version)
