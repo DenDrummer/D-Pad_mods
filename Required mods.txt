@@ -1,11 +1,41 @@
-Augmented Interactions
-----------------------
-https://minecraft.curseforge.com/projects/augmented-interactions/files/2520090
+Barkifier
+---------
+https://minecraft.curseforge.com/projects/barkifier/files/2520953
+
+
+Better Railroads
+----------------
+https://minecraft.curseforge.com/projects/better-railroads/files/2518309
 
 
 Biomes O' Plenty
 ----------------
 https://minecraft.curseforge.com/projects/biomes-o-plenty/files/2495245
+
+
+Chisel
+------
+https://minecraft.curseforge.com/projects/chisel/files/2516679
+
+
+Compression
+-----------
+https://minecraft.curseforge.com/projects/compression/files/2496315
+
+
+Fairy Lights
+------------
+https://minecraft.curseforge.com/projects/fairy-lights/files/2513426
+
+
+FlatBedrock Xplosion's Edition
+------------------------------
+https://minecraft.curseforge.com/projects/flatbedrockx/files/2440978
+
+
+Hopper Ducts
+------------
+https://minecraft.curseforge.com/projects/hopper-ducts/files/2454832
 
 
 Iron Chests
@@ -18,6 +48,11 @@ Level Up HP & dependencies
 https://minecraft.curseforge.com/projects/level-up-hp/files/2501739
 https://minecraft.curseforge.com/projects/shadowmc/files/2441500
 https://minecraft.curseforge.com/projects/shadowfacts-forgelin/files/2505090
+
+
+MrCrayfish's Furniture
+----------------------
+https://mrcrayfish.com/download?type=mod&id=fa8a7e47562f4bfe4d6dcb2c9a3304decd1aba41
 
 
 Not Enough Items & dependencies

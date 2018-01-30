@@ -1,11 +1,31 @@
+Augmented Interactions
+----------------------
+https://minecraft.curseforge.com/projects/augmented-interactions/files/2520090
+
+
 Ding
 ----
 https://minecraft.curseforge.com/projects/ding/files/2476271
 
 
+Dynamic Surroundings
+--------------------
+https://minecraft.curseforge.com/projects/dynamic-surroundings/files/2522763
+
+
+Hats (iChunUtil required)
+-------------------------
+https://minecraft.curseforge.com/projects/hats/files/2487838
+
+
 HWYLA
 -----
 https://minecraft.curseforge.com/projects/hwyla/files/2506337
+
+
+iChunUtil
+---------
+https://minecraft.curseforge.com/projects/ichunutil/files/2510760
 
 
 Inventory Tweaks
@@ -31,6 +51,11 @@ http://optifine.net/downloads (OptiFine 1.12.2 HD U C8)
 ReAuth
 ------
 https://minecraft.curseforge.com/projects/reauth/files/2491161
+
+
+Sound Filters
+-------------
+https://minecraft.curseforge.com/projects/sound-filters/files/2445236
 
 
 Twitch Integration & dependencies
