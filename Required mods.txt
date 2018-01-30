@@ -23,6 +23,11 @@ Compression
 https://minecraft.curseforge.com/projects/compression/files/2496315
 
 
+Connected Textures
+------------------
+https://minecraft.curseforge.com/projects/ctm/files/2519601
+
+
 Fairy Lights
 ------------
 https://minecraft.curseforge.com/projects/fairy-lights/files/2513426
