@@ -3,19 +3,36 @@ Augmented Interactions
 https://minecraft.curseforge.com/projects/augmented-interactions/files/2520090
 
 
+Chat Tweaks
+-----------
+https://minecraft.curseforge.com/projects/chat-tweaks/files/2516540
+
+
 Ding
 ----
 https://minecraft.curseforge.com/projects/ding/files/2476271
 
 
+Discord Suite
+-------------
+https://minecraft.curseforge.com/projects/discordsuite/files/2527275
+
+
 Dynamic Surroundings
 --------------------
-https://minecraft.curseforge.com/projects/dynamic-surroundings/files/2522763
+https://minecraft.curseforge.com/projects/dynamic-surroundings/files/2528435
 
 
-Hats (iChunUtil required)
--------------------------
+Enhanced Visuals
+----------------
+WARNING: recommended to disable low health effect until you have 5 or more hearts as maximum health.
+https://minecraft.curseforge.com/projects/enhancedvisuals/files/2491100
+
+
+Hats
+----
 https://minecraft.curseforge.com/projects/hats/files/2487838
+Also install
 
 
 HWYLA
@@ -53,6 +70,11 @@ ReAuth
 https://minecraft.curseforge.com/projects/reauth/files/2491161
 
 
+Server Observer
+---------------
+https://minecraft.curseforge.com/projects/serverobserver/files/2528590
+
+
 Sound Filters
 -------------
 https://minecraft.curseforge.com/projects/sound-filters/files/2445236
@@ -61,7 +83,7 @@ https://minecraft.curseforge.com/projects/sound-filters/files/2445236
 Twitch Integration & dependencies
 ---------------------------------
 https://minecraft.curseforge.com/projects/twitch-integration/files/2489614
-https://minecraft.curseforge.com/projects/chat-tweaks/files/2516540
+Also install Chat Tweaks
 
 
 VoxelMap (LiteMod)

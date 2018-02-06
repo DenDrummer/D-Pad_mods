@@ -4,6 +4,7 @@
 	1.3: Recommended mods
 	1.4: Miscellaneous mods
 	1.5: Litemods
+	1.6: Plugins
 2: Joining the server
 3: FAQ
 	3.1: Why links instead of actual mod files?
@@ -26,11 +27,15 @@
 		The green one is the latest version and the gray one is the version you are looking at, but the latest version isn't always the version used on the server.
 		tldr: always use the gray button on curseforge.
 		On 9minecraft make sure to always pick the version mentioned between brackets after the url.
+		
+		Requirements for mods will be listed as a separate mod since you will need all required mods regardless.
+		This also makes it easier when multiple mods have the same dependency.
 
 
 	1.3: Recommended mods
 		These are mods recommended but not required to join the server.
 		They range from usefull tools like Inventory Tweaks and VoxelMap, to mods that make the game feel better, but don't change any base functionality like Sound Filters and Dynamic Environments.
+		Sometimes they require another mod, which will be indicated.
 
 
 	1.4: Miscellaneous
@@ -46,6 +51,9 @@
 		Download the installer from here: http://www.liteloader.com/download#snapshot_11220
 		After you did that run the installer and EXTRACT liteloader to the mods folder.
 
+	1.6: Plugins
+		These are mods and plugins that are only required on the serverside and not clientside.
+		Should you want play singleplayer you'll need some of these in order to get as close to the experience you get on the server, but there will still be some differences.
 
 2: Joining the server
 	To join the server you first must be at least know who Dunpield is and be part of his Discord server.

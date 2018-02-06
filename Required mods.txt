@@ -13,9 +13,24 @@ Biomes O' Plenty
 https://minecraft.curseforge.com/projects/biomes-o-plenty/files/2495245
 
 
+Bone Torch
+----------
+https://minecraft.curseforge.com/projects/sbm-bone-torch/files/2447343
+
+
+Cheese
+------
+https://minecraft.curseforge.com/projects/cheese-mod-v-5-1-1-1-12-2-1-11/files/2528336
+
+
 Chisel
 ------
 https://minecraft.curseforge.com/projects/chisel/files/2516679
+
+
+CodeChickenLib
+--------------
+https://minecraft.curseforge.com/projects/codechicken-lib-1-8/files/2509819
 
 
 Compression
@@ -33,9 +48,29 @@ Fairy Lights
 https://minecraft.curseforge.com/projects/fairy-lights/files/2513426
 
 
+Farseek
+-------
+https://minecraft.curseforge.com/projects/farseek/files/2518776
+
+
 FlatBedrock Xplosion's Edition
 ------------------------------
 https://minecraft.curseforge.com/projects/flatbedrockx/files/2440978
+
+
+Forestry
+--------
+https://minecraft.curseforge.com/projects/forestry/files/2527731/download
+
+
+Forge
+-----
+version 14.23.1.2586
+
+
+Gravestone
+----------
+https://minecraft.curseforge.com/projects/gravestone-mod/files/2524880
 
 
 Hopper Ducts
@@ -48,11 +83,19 @@ Iron Chests
 https://minecraft.curseforge.com/projects/iron-chests/files/2487724
 
 
-Level Up HP & dependencies
---------------------------
+Just Enough Items
+-----------------
+https://minecraft.curseforge.com/projects/jei/files/2511052
+
+
+Level Up HP
+-----------
 https://minecraft.curseforge.com/projects/level-up-hp/files/2501739
-https://minecraft.curseforge.com/projects/shadowmc/files/2441500
-https://minecraft.curseforge.com/projects/shadowfacts-forgelin/files/2505090
+
+
+Mantle
+------
+https://minecraft.curseforge.com/projects/mantle/files/2474052
 
 
 MrCrayfish's Furniture
@@ -60,11 +103,29 @@ MrCrayfish's Furniture
 https://mrcrayfish.com/download?type=mod&id=fa8a7e47562f4bfe4d6dcb2c9a3304decd1aba41
 
 
-Not Enough Items & dependencies
--------------------------------
+Natura
+------
+https://minecraft.curseforge.com/projects/natura/files/2519128
+
+
+Not Enough Items
+----------------
 https://minecraft.curseforge.com/projects/not-enough-items-1-8/files/2509851
-https://minecraft.curseforge.com/projects/codechicken-lib-1-8/files/2509819
-https://minecraft.curseforge.com/projects/jei/files/2511052
+
+
+Oreberries
+----------
+https://minecraft.curseforge.com/projects/oreberries/files/2497571
+
+
+Redstone Paste
+--------------
+https://minecraft.curseforge.com/projects/redstone-paste/files/2477676
+
+
+Salty
+-----
+https://minecraft.curseforge.com/projects/saltymod/files/2528226
 
 
 Secret Rooms
@@ -72,16 +133,24 @@ Secret Rooms
 https://minecraft.curseforge.com/projects/secretroomsmod/files/2524254
 
 
-Streams & dependencies
-----------------------
+Shadowfacts Forgelin
+-------------------
+https://minecraft.curseforge.com/projects/shadowfacts-forgelin/files/2505090
+
+
+ShadowMC
+--------
+https://minecraft.curseforge.com/projects/shadowmc/files/2441500
+
+
+Streams
+-------
 https://minecraft.curseforge.com/projects/streams/files/2518778
-https://minecraft.curseforge.com/projects/farseek/files/2518776
 
 
-Tinkers Construct & dependencies
----------------------------------
+Tinkers Construct
+-----------------
 https://minecraft.curseforge.com/projects/tinkers-construct/files/2510691
-https://minecraft.curseforge.com/projects/mantle/files/2474052
 
 
 Treecapitator

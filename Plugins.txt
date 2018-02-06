@@ -1,0 +1,13 @@
+AdventureMMO
+------------
+https://github.com/Daniel12321/AdventureMMO/releases/tag/v2.0.7
+
+
+Nucleus
+-------
+https://github.com/NucleusPowered/Nucleus/releases/tag/1.2.2
+
+
+SpongePowered
+-------------
+version: 1.12.2-2586-7.1.0-BETA-2889
