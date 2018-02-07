@@ -55,6 +55,11 @@ Nether Portal Fix
 https://minecraft.curseforge.com/projects/netherportalfix/files/2489643
 
 
+No Recipe Book
+--------------
+https://minecraft.curseforge.com/projects/no-recipe-book/files/2527726
+
+
 Note Block GUI (LiteMod)
 ------------------------
 http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1288520-note-block-display-with-gui (1.12.2)
@@ -80,8 +85,8 @@ Sound Filters
 https://minecraft.curseforge.com/projects/sound-filters/files/2445236
 
 
-Twitch Integration & dependencies
----------------------------------
+Twitch Integration
+------------------
 https://minecraft.curseforge.com/projects/twitch-integration/files/2489614
 Also install Chat Tweaks
 
