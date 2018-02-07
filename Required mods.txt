@@ -130,7 +130,7 @@ https://minecraft.curseforge.com/projects/saltymod/files/2528226
 
 Secret Rooms
 ------------
-https://minecraft.curseforge.com/projects/secretroomsmod/files/2524254
+https://minecraft.curseforge.com/projects/secretroomsmod/files/2525811
 
 
 Shadowfacts Forgelin
@@ -150,7 +150,7 @@ https://minecraft.curseforge.com/projects/streams/files/2518778
 
 Tinkers Construct
 -----------------
-https://minecraft.curseforge.com/projects/tinkers-construct/files/2510691
+https://minecraft.curseforge.com/projects/tinkers-construct/files/2518400
 
 
 Treecapitator
