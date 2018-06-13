@@ -3,6 +3,16 @@ Barkifier
 https://minecraft.curseforge.com/projects/barkifier/files/2520953
 
 
+B.A.S.E.
+--------
+https://minecraft.curseforge.com/projects/base/files/2571522
+
+
+Baubles
+-------
+https://minecraft.curseforge.com/projects/baubles/files/2518667
+
+
 Better Railroads
 ----------------
 https://minecraft.curseforge.com/projects/better-railroads/files/2518309
@@ -10,7 +20,7 @@ https://minecraft.curseforge.com/projects/better-railroads/files/2518309
 
 Biomes O' Plenty
 ----------------
-https://minecraft.curseforge.com/projects/biomes-o-plenty/files/2520994
+https://minecraft.curseforge.com/projects/biomes-o-plenty/files/2555531
 
 
 Bone Torch
@@ -18,14 +28,24 @@ Bone Torch
 https://minecraft.curseforge.com/projects/sbm-bone-torch/files/2447343
 
 
+Botania
+-------
+https://minecraft.curseforge.com/projects/botania/files/2554929
+
+
 Cheese
 ------
-https://minecraft.curseforge.com/projects/cheese-mod-v-5-1-1-1-12-2-1-11/files/2528336
+(see Mods folder)
 
 
 Chisel
 ------
 https://minecraft.curseforge.com/projects/chisel/files/2516679
+
+
+Clumps
+------
+https://minecraft.curseforge.com/projects/clumps/files/2458862
 
 
 CodeChickenLib
@@ -43,6 +63,11 @@ Connected Textures
 https://minecraft.curseforge.com/projects/ctm/files/2519601
 
 
+CreativeCore
+------------
+https://minecraft.curseforge.com/projects/creativecore/files/2544567
+
+
 Fairy Lights
 ------------
 https://minecraft.curseforge.com/projects/fairy-lights/files/2513426
@@ -50,7 +75,7 @@ https://minecraft.curseforge.com/projects/fairy-lights/files/2513426
 
 Farseek
 -------
-https://minecraft.curseforge.com/projects/farseek/files/2518776
+https://minecraft.curseforge.com/projects/farseek/files/2548932
 
 
 FlatBedrock Xplosion's Edition
@@ -93,6 +118,21 @@ Level Up HP
 https://minecraft.curseforge.com/projects/level-up-hp/files/2501739
 
 
+Little Tiles
+------------
+https://minecraft.curseforge.com/projects/littletiles/files/2548142
+
+
+MalisisCore
+-----------
+https://minecraft.curseforge.com/projects/malisiscore/files/2526670
+
+
+MalisisDoors
+------------
+https://minecraft.curseforge.com/projects/malisisdoors/files/2526674
+
+
 Mantle
 ------
 https://minecraft.curseforge.com/projects/mantle/files/2474052
@@ -118,6 +158,11 @@ Oreberries
 https://minecraft.curseforge.com/projects/oreberries/files/2497571
 
 
+Player Revive
+-------------
+https://minecraft.curseforge.com/projects/playerrevive/files/2550277
+
+
 Redstone Paste
 --------------
 https://minecraft.curseforge.com/projects/redstone-paste/files/2477676
@@ -130,7 +175,7 @@ https://minecraft.curseforge.com/projects/saltymod/files/2528226
 
 Secret Rooms
 ------------
-https://minecraft.curseforge.com/projects/secretroomsmod/files/2525811
+https://minecraft.curseforge.com/projects/secretroomsmod/files/2561617
 
 
 Shadowfacts Forgelin
@@ -145,7 +190,12 @@ https://minecraft.curseforge.com/projects/shadowmc/files/2441500
 
 Streams
 -------
-https://minecraft.curseforge.com/projects/streams/files/2518778
+https://minecraft.curseforge.com/projects/streams/files/2540343
+
+
+Thaumcraft
+----------
+https://minecraft.curseforge.com/projects/thaumcraft/files/2565186
 
 
 Tinkers Construct

@@ -3,9 +3,14 @@ Augmented Interactions
 https://minecraft.curseforge.com/projects/augmented-interactions/files/2520090
 
 
+Better Advancements
+-------------------
+https://minecraft.curseforge.com/projects/better-advancements/files/2504151
+
+
 Chat Tweaks
 -----------
-https://minecraft.curseforge.com/projects/chat-tweaks/files/2516540
+https://minecraft.curseforge.com/projects/chat-tweaks/files/2559823
 
 
 Ding
@@ -15,7 +20,7 @@ https://minecraft.curseforge.com/projects/ding/files/2476271
 
 Discord Suite
 -------------
-https://minecraft.curseforge.com/projects/discordsuite/files/2527275
+https://minecraft.curseforge.com/projects/discordsuite/files/2560527
 
 
 Dynamic Surroundings
@@ -50,6 +55,11 @@ Inventory Tweaks
 https://minecraft.curseforge.com/projects/inventory-tweaks/files/2482481
 
 
+LunatriusCore
+-------------
+https://minecraft.curseforge.com/projects/lunatriuscore/files/2489549
+
+
 Nether Portal Fix
 -----------------
 https://minecraft.curseforge.com/projects/netherportalfix/files/2489643
@@ -75,6 +85,12 @@ ReAuth
 https://minecraft.curseforge.com/projects/reauth/files/2491161
 
 
+Schematica
+----------
+https://minecraft.curseforge.com/projects/schematica/files/2554100
+(requires LunatriusCore)
+
+
 Server Observer
 ---------------
 https://minecraft.curseforge.com/projects/serverobserver/files/2528590
@@ -94,3 +110,9 @@ Also install Chat Tweaks
 VoxelMap (LiteMod)
 ------------------
 https://minecraft.curseforge.com/projects/voxelmap/files/2492763
+
+
+WAILA Harvestability
+--------------------
+https://minecraft.curseforge.com/projects/waila-harvestability/files/2481605
+(requires HWYLA)

@@ -5,15 +5,17 @@
 	1.4: Miscellaneous mods
 	1.5: Litemods
 	1.6: Plugins
+	1.7: Mods folder
 2: Joining the server
 3: FAQ
 	3.1: Why links instead of actual mod files?
+	3.2: Why are some mods attached instead of linked then?
 
 
 1: Getting the modpack running
 	1.1: Forge
-		First off you need to install Forge version 2555 for Minecraft version 1.12.2
-		There's plenty of existing guides for this.
+		First off you need to install Forge version 2611 for Minecraft version 1.12.2
+		There's plenty of existing guides for this, just look up "install Minecraft Forge".
 		All mods go into the mods folder in your .minecraft root folder.
 
 
@@ -54,6 +56,14 @@
 	1.6: Plugins
 		These are mods and plugins that are only required on the serverside and not clientside.
 		Should you want play singleplayer you'll need some of these in order to get as close to the experience you get on the server, but there will still be some differences.
+
+	1.7: Mods folder
+		As explained in 3.1, I try to give credit to the original authors of the mods by providing links to the official downloads or where I found the download.
+		Sometimes however these get taken down for various reasons.
+		This can vary from the author taking the mod down, the mod too closely resembling a mod with some form of copyright, an unoficial port to a newer version without permission, etc.
+		This is why a few mods might eventually still end up in the Mods folder.
+		If you see a mod in this folder and you know an official download to it, feel free to let me know.
+		
 
 2: Joining the server
 	To join the server you first must be at least know who Dunpield is and be part of his Discord server.
