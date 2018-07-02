@@ -8,11 +8,12 @@
 2: Joining the server
 3: FAQ
 	3.1: Why links instead of actual mod files?
+	3.2: Why is Singleplayer different from the server despite having all the same mods?
 
 
 1: Getting the modpack running
 	1.1: Forge
-		First off you need to install Forge version 2555 for Minecraft version 1.12.2
+		First off you need to install Forge version 1.12.2-14.23.4.2705
 		There's plenty of existing guides for this.
 		All mods go into the mods folder in your .minecraft root folder.
 
@@ -65,3 +66,8 @@
 	3.1: Why links instead of actual mod files?
 		Some mod authors have specific rules against reuploading mods, even in modpack format.
 		By using this method we won't be breaking any rules and we can still play together using the same modpack.
+	
+	
+	3.2: Why is Singleplayer different from the server despite having all the same mods?
+		The server has changed quite a few configuration files which you might hav not changed or changed differently.
+		Let me know if you want me to make the config files public.

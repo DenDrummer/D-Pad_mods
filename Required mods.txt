@@ -3,6 +3,11 @@ Barkifier
 https://minecraft.curseforge.com/projects/barkifier/files/2520953
 
 
+Baubles
+-------
+https://minecraft.curseforge.com/projects/baubles/files/2518667
+
+
 Better Railroads
 ----------------
 https://minecraft.curseforge.com/projects/better-railroads/files/2518309
@@ -60,7 +65,7 @@ https://minecraft.curseforge.com/projects/flatbedrockx/files/2440978
 
 Forestry
 --------
-https://minecraft.curseforge.com/projects/forestry/files/2527731/download
+https://minecraft.curseforge.com/projects/forestry/files/2577456
 
 
 Forge
@@ -146,6 +151,11 @@ https://minecraft.curseforge.com/projects/shadowmc/files/2441500
 Streams
 -------
 https://minecraft.curseforge.com/projects/streams/files/2518778
+
+
+Thaumcraft
+----------
+https://minecraft.curseforge.com/projects/thaumcraft/files/2578520
 
 
 Tinkers Construct
