@@ -50,7 +50,7 @@
 		This results in it being loaded as a mod which also loads all litemods in the mods folder.
 		These mods will have (LiteMod) after their name in the 3 files.
 		Download the installer from here: http://www.liteloader.com/download#snapshot_11220
-		After you did that run the installer and EXTRACT liteloader to the mods folder.
+		After you did that, run the installer and EXTRACT liteloader to the mods folder.
 
 	1.6: Plugins
 		These are mods and plugins that are only required on the serverside and not clientside.
@@ -69,5 +69,5 @@
 	
 	
 	3.2: Why is Singleplayer different from the server despite having all the same mods?
-		The server has changed quite a few configuration files which you might hav not changed or changed differently.
+		The server has changed quite a few configuration files which you might not have changed or changed differently.
 		Let me know if you want me to make the config files public.
