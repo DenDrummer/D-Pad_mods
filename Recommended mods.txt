@@ -85,9 +85,9 @@ Sound Filters
 https://minecraft.curseforge.com/projects/sound-filters/files/2445236
 
 
-Twitch Integration
-------------------
-https://minecraft.curseforge.com/projects/twitch-integration/files/2489614
+Twitch Chat Integration
+-----------------------
+https://minecraft.curseforge.com/projects/twitch-chat-integration/files/2554846
 Also install Chat Tweaks
 
 

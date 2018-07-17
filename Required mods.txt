@@ -55,7 +55,7 @@ https://minecraft.curseforge.com/projects/fairy-lights/files/2513426
 
 Farseek
 -------
-https://minecraft.curseforge.com/projects/farseek/files/2518776
+https://minecraft.curseforge.com/projects/farseek/files/2583091
 
 
 FlatBedrock Xplosion's Edition
@@ -150,7 +150,7 @@ https://minecraft.curseforge.com/projects/shadowmc/files/2441500
 
 Streams
 -------
-https://minecraft.curseforge.com/projects/streams/files/2518778
+https://minecraft.curseforge.com/projects/streams/files/2568464
 
 
 Thaumcraft
