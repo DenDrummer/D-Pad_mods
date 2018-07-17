@@ -5,7 +5,12 @@ https://minecraft.curseforge.com/projects/augmented-interactions/files/2520090
 
 Chat Tweaks
 -----------
-https://minecraft.curseforge.com/projects/chat-tweaks/files/2516540
+https://minecraft.curseforge.com/projects/chat-tweaks/files/2559823
+
+
+Crafting Tweaks
+---------------
+https://minecraft.curseforge.com/projects/crafting-tweaks/files/2562139
 
 
 Ding
@@ -15,12 +20,12 @@ https://minecraft.curseforge.com/projects/ding/files/2476271
 
 Discord Suite
 -------------
-https://minecraft.curseforge.com/projects/discordsuite/files/2527275
+https://minecraft.curseforge.com/projects/discordsuite/files/2577684
 
 
 Dynamic Surroundings
 --------------------
-https://minecraft.curseforge.com/projects/dynamic-surroundings/files/2522763
+https://minecraft.curseforge.com/projects/dynamic-surroundings/files/2571988
 
 
 Enhanced Visuals
@@ -32,12 +37,12 @@ https://minecraft.curseforge.com/projects/enhancedvisuals/files/2491100
 Hats
 ----
 https://minecraft.curseforge.com/projects/hats/files/2487838
-Also install
+Also install iChunUtil
 
 
 HWYLA
 -----
-https://minecraft.curseforge.com/projects/hwyla/files/2506337
+https://minecraft.curseforge.com/projects/hwyla/files/2568751
 
 
 iChunUtil
@@ -57,7 +62,7 @@ https://minecraft.curseforge.com/projects/netherportalfix/files/2489643
 
 No Recipe Book
 --------------
-https://minecraft.curseforge.com/projects/no-recipe-book/files/2527726
+https://minecraft.curseforge.com/projects/no-recipe-book/files/2568865
 
 
 Note Block GUI (LiteMod)
@@ -67,17 +72,17 @@ http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-
 
 Optifine
 --------
-http://optifine.net/downloads (OptiFine 1.12.2 HD U C8)
+http://optifine.net/downloads (OptiFine 1.12.2 HD U E1)
 
 
 ReAuth
 ------
-https://minecraft.curseforge.com/projects/reauth/files/2491161
+https://minecraft.curseforge.com/projects/reauth/files/2560638
 
 
 Server Observer
 ---------------
-https://minecraft.curseforge.com/projects/serverobserver/files/2528590
+https://minecraft.curseforge.com/projects/serverobserver/files/2532413
 
 
 Sound Filters
@@ -93,4 +98,4 @@ Also install Chat Tweaks
 
 VoxelMap (LiteMod)
 ------------------
-https://minecraft.curseforge.com/projects/voxelmap/files/2492763
+https://minecraft.curseforge.com/projects/voxelmap/files/2571232
