@@ -1,3 +1,8 @@
+AppleSkin
+---------
+https://minecraft.curseforge.com/projects/appleskin/files/2496585
+
+
 Augmented Interactions
 ----------------------
 https://minecraft.curseforge.com/projects/augmented-interactions/files/2520090

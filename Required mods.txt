@@ -23,6 +23,11 @@ Bone Torch
 https://minecraft.curseforge.com/projects/sbm-bone-torch/files/2447343
 
 
+Botania
+-------
+https://minecraft.curseforge.com/projects/botania/files/2554929
+
+
 Cheese
 ------
 see the Mods folder on Github
@@ -83,6 +88,11 @@ Hopper Ducts
 https://minecraft.curseforge.com/projects/hopper-ducts/files/2454832
 
 
+Horizontal Glass Panes
+----------------------
+https://minecraft.curseforge.com/projects/horizontal-glass-panes/files/2536711
+
+
 Iron Chests
 -----------
 https://minecraft.curseforge.com/projects/iron-chests/files/2533664
@@ -90,7 +100,7 @@ https://minecraft.curseforge.com/projects/iron-chests/files/2533664
 
 Just Enough Items
 -----------------
-https://minecraft.curseforge.com/projects/jei/files/2511052
+https://minecraft.curseforge.com/projects/jei/files/2578467
 
 
 Level Up HP
@@ -98,19 +108,29 @@ Level Up HP
 https://minecraft.curseforge.com/projects/level-up-hp/files/2501739
 
 
+MalisisCore
+-----------
+https://minecraft.curseforge.com/projects/malisiscore/files/2526670
+
+
+MalisisDoors
+------------
+https://minecraft.curseforge.com/projects/malisisdoors/files/2526674
+
+
 Mantle
 ------
-https://minecraft.curseforge.com/projects/mantle/files/2474052
+https://minecraft.curseforge.com/projects/mantle/files/2550550
 
 
 MrCrayfish's Furniture
 ----------------------
-https://mrcrayfish.com/download?type=mod&id=fa8a7e47562f4bfe4d6dcb2c9a3304decd1aba41
+https://mrcrayfish.com/download?type=mod&id=d3a6d551160bb7ee4dbeb2d7573546557a8597e3 (5.2.1)
 
 
 Natura
 ------
-https://minecraft.curseforge.com/projects/natura/files/2519128
+https://minecraft.curseforge.com/projects/natura/files/2553697
 
 
 Not Enough Items
@@ -120,7 +140,7 @@ https://minecraft.curseforge.com/projects/not-enough-items-1-8/files/2509851
 
 Oreberries
 ----------
-https://minecraft.curseforge.com/projects/oreberries/files/2497571
+https://minecraft.curseforge.com/projects/oreberries/files/2578045
 
 
 Redstone Paste
@@ -130,17 +150,22 @@ https://minecraft.curseforge.com/projects/redstone-paste/files/2477676
 
 Salty
 -----
-https://minecraft.curseforge.com/projects/saltymod/files/2528226
+https://minecraft.curseforge.com/projects/saltymod/files/2552779
 
 
 Secret Rooms
 ------------
-https://minecraft.curseforge.com/projects/secretroomsmod/files/2525811
+https://minecraft.curseforge.com/projects/secretroomsmod/files/2561617
+
+
+Serene Seasons
+--------------
+https://minecraft.curseforge.com/projects/serene-seasons/files/2569832
 
 
 Shadowfacts Forgelin
 --------------------
-https://minecraft.curseforge.com/projects/shadowfacts-forgelin/files/2505090
+https://minecraft.curseforge.com/projects/shadowfacts-forgelin/files/2573311
 
 
 ShadowMC
@@ -160,7 +185,7 @@ https://minecraft.curseforge.com/projects/thaumcraft/files/2578520
 
 Tinkers Construct
 -----------------
-https://minecraft.curseforge.com/projects/tinkers-construct/files/2518400
+https://minecraft.curseforge.com/projects/tinkers-construct/files/2571785
 
 
 Treecapitator
