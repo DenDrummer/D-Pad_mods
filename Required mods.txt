@@ -125,7 +125,7 @@ https://minecraft.curseforge.com/projects/mantle/files/2550550
 
 MrCrayfish's Furniture
 ----------------------
-https://mrcrayfish.com/download?type=mod&id=d3a6d551160bb7ee4dbeb2d7573546557a8597e3 (5.2.1)
+https://minecraft.curseforge.com/projects/mrcrayfish-furniture-mod/files/2582719
 
 
 Natura
