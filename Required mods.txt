@@ -133,6 +133,11 @@ Natura
 https://minecraft.curseforge.com/projects/natura/files/2553697
 
 
+NoMoreRecipeConflict
+--------------------
+https://minecraft.curseforge.com/projects/stimmedcow-nomorerecipeconflict/files/2580355
+
+
 Not Enough Items
 ----------------
 https://minecraft.curseforge.com/projects/not-enough-items-1-8/files/2509851
