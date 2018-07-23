@@ -1,3 +1,28 @@
+Advanced Chimneys
+-----------------
+https://minecraft.curseforge.com/projects/advanced-chimneys/files/2583821
+
+
+Akashic Tome
+------------
+https://minecraft.curseforge.com/projects/akashic-tome/files/2476494
+
+
+Aquaculture
+-----------
+https://minecraft.curseforge.com/projects/aquaculture/files/2571978
+
+
+Astral Sorcery
+--------------
+https://minecraft.curseforge.com/projects/astral-sorcery/files/2579492
+
+
+AutoRegLib
+----------
+https://minecraft.curseforge.com/projects/autoreglib/files/2573417
+
+
 Barkifier
 ---------
 https://minecraft.curseforge.com/projects/barkifier/files/2520953
@@ -43,6 +68,11 @@ CodeChickenLib
 https://minecraft.curseforge.com/projects/codechicken-lib-1-8/files/2575906
 
 
+Comforts
+--------
+https://minecraft.curseforge.com/projects/comforts/files/2585000
+
+
 Compression
 -----------
 https://minecraft.curseforge.com/projects/compression/files/2496315
@@ -53,9 +83,29 @@ Connected Textures
 https://minecraft.curseforge.com/projects/ctm/files/2584026
 
 
+CreativeCore
+------------
+https://minecraft.curseforge.com/projects/creativecore/files/2544567
+
+
+Earthworks
+----------
+https://minecraft.curseforge.com/projects/earthworks/files/2486190
+
+
+Embers
+------
+https://minecraft.curseforge.com/projects/embers/files/2495586
+
+
 Fairy Lights
 ------------
 https://minecraft.curseforge.com/projects/fairy-lights/files/2513426
+
+
+Familiar Fauna
+--------------
+https://minecraft.curseforge.com/projects/familiar-fauna/files/2559102
 
 
 Farseek
@@ -78,9 +128,24 @@ Forge
 version 1.12.2-14.23.4.2705
 
 
+ForgeEndertech
+--------------
+https://minecraft.curseforge.com/projects/forgeendertech/files/2582124
+
+
+Giacomo's Bookshelf
+-------------------
+https://minecraft.curseforge.com/projects/giacomos-bookshelf/files/2500080
+
+
 Gravestone
 ----------
 https://minecraft.curseforge.com/projects/gravestone-mod/files/2524880
+
+
+Hardcore Darkness
+-----------------
+https://minecraft.curseforge.com/projects/hardcore-darkness/files/2499443
 
 
 Hopper Ducts
@@ -91,6 +156,11 @@ https://minecraft.curseforge.com/projects/hopper-ducts/files/2454832
 Horizontal Glass Panes
 ----------------------
 https://minecraft.curseforge.com/projects/horizontal-glass-panes/files/2536711
+
+
+Hunger Persistence
+------------------
+https://minecraft.curseforge.com/projects/hunger-persistence/files/2442629
 
 
 Iron Chests
@@ -106,6 +176,11 @@ https://minecraft.curseforge.com/projects/jei/files/2578467
 Level Up HP
 -----------
 https://minecraft.curseforge.com/projects/level-up-hp/files/2501739
+
+
+Magic Bees
+----------
+https://minecraft.curseforge.com/projects/magic-bees/files/2566282
 
 
 MalisisCore
@@ -148,9 +223,28 @@ Oreberries
 https://minecraft.curseforge.com/projects/oreberries/files/2578045
 
 
+Pam's HarvestCraft
+------------------
+https://minecraft.curseforge.com/projects/pams-harvestcraft/files/2560919
+
+
+PlayerRevive
+------------
+https://minecraft.curseforge.com/projects/playerrevive/files/2550277
+
+
 Redstone Paste
 --------------
 https://minecraft.curseforge.com/projects/redstone-paste/files/2477676
+
+
+Roguelike Dungeons
+------------------
+https://minecraft.curseforge.com/projects/roguelike-dungeons/files/2492586
+
+Roots
+-----
+https://minecraft.curseforge.com/projects/roots/files/2510836
 
 
 Salty
@@ -178,19 +272,54 @@ ShadowMC
 https://minecraft.curseforge.com/projects/shadowmc/files/2441500
 
 
+ShetiPhianCore
+--------------
+https://minecraft.curseforge.com/projects/shetiphiancore/files/2571494
+
+
+SignEdit
+--------
+https://minecraft.curseforge.com/projects/signedit/files/2515029
+
+
 Streams
 -------
 https://minecraft.curseforge.com/projects/streams/files/2568464
 
 
+Terraqueous
+-----------
+https://minecraft.curseforge.com/projects/terraqueous/files/2554193
+
+
 Thaumcraft
 ----------
-https://minecraft.curseforge.com/projects/thaumcraft/files/2578520
+https://minecraft.curseforge.com/projects/thaumcraft/files/2587290
+
+
+Thaumic Tinkerer
+----------------
+https://minecraft.curseforge.com/projects/thaumic-tinkerer/files/2580372
+
+
+ThutCore
+--------
+https://minecraft.curseforge.com/projects/thutcore/files/2559179
+
+
+Thut's Elevators
+----------------
+https://minecraft.curseforge.com/projects/thuts-elevators/files/2559672
 
 
 Tinkers Construct
 -----------------
 https://minecraft.curseforge.com/projects/tinkers-construct/files/2571785
+
+
+Tinkers' Tool Leveling
+----------------------
+https://minecraft.curseforge.com/projects/tinkers-tool-leveling/files/2570118
 
 
 Treecapitator

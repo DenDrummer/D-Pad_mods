@@ -8,6 +8,11 @@ Augmented Interactions
 https://minecraft.curseforge.com/projects/augmented-interactions/files/2520090
 
 
+Block Drops (JEI Addon)
+-----------------------
+https://minecraft.curseforge.com/projects/block-drops-jei-addon/files/2509046
+
+
 Chat Tweaks
 -----------
 https://minecraft.curseforge.com/projects/chat-tweaks/files/2559823
@@ -60,6 +65,26 @@ Inventory Tweaks
 https://minecraft.curseforge.com/projects/inventory-tweaks/files/2482481
 
 
+JEI Bees
+--------
+https://minecraft.curseforge.com/projects/jei-bees/files/2490058
+
+
+Just Enough Harvestcraft (JEHC)
+-------------------------------
+https://minecraft.curseforge.com/projects/just-enough-harvestcraft/files/2587544
+
+
+Just Enough Pattern Banners
+---------------------------
+https://minecraft.curseforge.com/projects/just-enough-pattern-banners/files/2455920
+
+
+Just Enough Resources (JER)
+---------------------------
+https://minecraft.curseforge.com/projects/just-enough-resources-jer/files/2497186
+
+
 Nether Portal Fix
 -----------------
 https://minecraft.curseforge.com/projects/netherportalfix/files/2489643
@@ -95,6 +120,16 @@ Sound Filters
 https://minecraft.curseforge.com/projects/sound-filters/files/2445236
 
 
+Thaumic JEI
+-----------
+https://minecraft.curseforge.com/projects/thaumic-jei/files/2571662
+
+
+Tinker's JEI
+------------
+https://minecraft.curseforge.com/projects/tinkers-jei/files/2549634
+
+
 Twitch Chat Integration
 -----------------------
 https://minecraft.curseforge.com/projects/twitch-chat-integration/files/2554846
@@ -104,3 +139,8 @@ Also install Chat Tweaks
 VoxelMap (LiteMod)
 ------------------
 https://minecraft.curseforge.com/projects/voxelmap/files/2571232
+
+
+Waila Harvestability
+--------------------
+https://minecraft.curseforge.com/projects/waila-harvestability/files/2481605

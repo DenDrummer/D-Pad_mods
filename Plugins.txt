@@ -3,6 +3,16 @@ DiscordChat
 https://minecraft.curseforge.com/projects/discordchat/files/2488804
 
 
+LuckPerms
+---------
+https://ore.spongepowered.org/Luck/LuckPerms/versions/4.2.17
+
+
+Morpheus
+--------
+https://minecraft.curseforge.com/projects/morpheus/files/2432272
+
+
 Nucleus
 -------
 https://github.com/NucleusPowered/Nucleus/releases/tag/1.2.2
@@ -12,3 +22,8 @@ SpongePowered
 -------------
 https://www.spongepowered.org/downloads/spongeforge/stable/1.12.2
 version: 1.12.2-2705-7.1.0-BETA-3206
+
+
+Unloader
+--------
+https://minecraft.curseforge.com/projects/unloader/files/2572528
