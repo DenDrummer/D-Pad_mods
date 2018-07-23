@@ -143,11 +143,6 @@ Gravestone
 https://minecraft.curseforge.com/projects/gravestone-mod/files/2524880
 
 
-Hardcore Darkness
------------------
-https://minecraft.curseforge.com/projects/hardcore-darkness/files/2499443
-
-
 Hopper Ducts
 ------------
 https://minecraft.curseforge.com/projects/hopper-ducts/files/2454832
