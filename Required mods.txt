@@ -78,8 +78,8 @@ Compression
 https://minecraft.curseforge.com/projects/compression/files/2496315
 
 
-Connected Textures
-------------------
+ConnectedTexturesMod
+--------------------
 https://minecraft.curseforge.com/projects/ctm/files/2584026
 
 
@@ -178,6 +178,11 @@ Level Up HP
 https://minecraft.curseforge.com/projects/level-up-hp/files/2501739
 
 
+LibrarianLib
+------------
+https://minecraft.curseforge.com/projects/librarianlib/files/2589135
+
+
 Magic Bees
 ----------
 https://minecraft.curseforge.com/projects/magic-bees/files/2566282
@@ -262,8 +267,8 @@ Serene Seasons
 https://minecraft.curseforge.com/projects/serene-seasons/files/2569832
 
 
-Shadowfacts Forgelin
---------------------
+Shadowfacts' Forgelin
+---------------------
 https://minecraft.curseforge.com/projects/shadowfacts-forgelin/files/2573311
 
 
@@ -325,3 +330,8 @@ https://minecraft.curseforge.com/projects/tinkers-tool-leveling/files/2570118
 Treecapitator
 -------------
 http://www.9minecraft.net/treecapitator-mod/ (1.12.2 version)
+
+
+Wizardry Mod
+------------
+https://minecraft.curseforge.com/projects/wizardry-mod/files/2589097
