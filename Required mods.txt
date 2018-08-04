@@ -48,6 +48,11 @@ Bone Torch
 https://minecraft.curseforge.com/projects/sbm-bone-torch/files/2447343
 
 
+Bookshelf
+---------
+https://minecraft.curseforge.com/projects/bookshelf/files/2572825
+
+
 Botania
 -------
 https://minecraft.curseforge.com/projects/botania/files/2554929
@@ -115,7 +120,7 @@ https://minecraft.curseforge.com/projects/embers/files/2495586
 
 Ender Storage 1.8.+
 -------------------
-https://minecraft.curseforge.com/projects/ender-storage-1-8/files/2594243
+https://minecraft.curseforge.com/projects/ender-storage-1-8/files/2576657
 
 
 EqualDragons
@@ -201,11 +206,6 @@ https://minecraft.curseforge.com/projects/iron-backpacks/files/2564573
 Iron Chests
 -----------
 https://minecraft.curseforge.com/projects/iron-chests/files/2533664
-
-
-JustEnoughIDs
--------------
-https://minecraft.curseforge.com/projects/jeid/files/2593280
 
 
 Just Enough Items
@@ -342,11 +342,6 @@ Sit
 https://minecraft.curseforge.com/projects/sit/files/2533371
 
 
-Skye's Donuts
--------------
-https://minecraft.curseforge.com/projects/skyes-donuts/files/2514892
-
-
 Streams
 -------
 https://minecraft.curseforge.com/projects/streams/files/2568464
@@ -404,7 +399,7 @@ https://minecraft.curseforge.com/projects/vanillafix/files/2574249
 
 WanionLib
 ---------
-https://minecraft.curseforge.com/projects/wanionlib/files/2510015
+https://minecraft.curseforge.com/projects/wanionlib/files/2534271
 
 
 Wizardry Mod
