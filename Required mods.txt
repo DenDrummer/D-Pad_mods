@@ -1,6 +1,6 @@
 Advanced Chimneys
 -----------------
-https://minecraft.curseforge.com/projects/advanced-chimneys/files/2583821
+https://minecraft.curseforge.com/projects/advanced-chimneys/files/2596583
 
 
 Akashic Tome
@@ -10,12 +10,12 @@ https://minecraft.curseforge.com/projects/akashic-tome/files/2476494
 
 Aquaculture
 -----------
-https://minecraft.curseforge.com/projects/aquaculture/files/2571978
+https://minecraft.curseforge.com/projects/aquaculture/files/2596234
 
 
 Astral Sorcery
 --------------
-https://minecraft.curseforge.com/projects/astral-sorcery/files/2579492
+https://minecraft.curseforge.com/projects/astral-sorcery/files/2591271
 
 
 AutoRegLib
@@ -40,7 +40,7 @@ https://minecraft.curseforge.com/projects/better-railroads/files/2518309
 
 Biomes O' Plenty
 ----------------
-https://minecraft.curseforge.com/projects/biomes-o-plenty/files/2555531
+https://minecraft.curseforge.com/projects/biomes-o-plenty/files/2596390
 
 
 Bone Torch
@@ -51,6 +51,11 @@ https://minecraft.curseforge.com/projects/sbm-bone-torch/files/2447343
 Botania
 -------
 https://minecraft.curseforge.com/projects/botania/files/2554929
+
+
+BurnBabyBurn
+------------
+https://minecraft.curseforge.com/projects/burnbabyburn/files/2585607
 
 
 Cheese
@@ -75,7 +80,7 @@ https://minecraft.curseforge.com/projects/comforts/files/2585000
 
 Compression
 -----------
-https://minecraft.curseforge.com/projects/compression/files/2496315
+https://minecraft.curseforge.com/projects/compression/files/2593548
 
 
 ConnectedTexturesMod
@@ -83,9 +88,19 @@ ConnectedTexturesMod
 https://minecraft.curseforge.com/projects/ctm/files/2584026
 
 
+Cooking for Blockheads
+----------------------
+https://minecraft.curseforge.com/projects/cooking-for-blockheads/files/2593109
+
+
+Cravings
+--------
+https://minecraft.curseforge.com/projects/cravings/files/2509860
+
+
 CreativeCore
 ------------
-https://minecraft.curseforge.com/projects/creativecore/files/2544567
+https://minecraft.curseforge.com/projects/creativecore/files/2590440
 
 
 Earthworks
@@ -96,6 +111,16 @@ https://minecraft.curseforge.com/projects/earthworks/files/2486190
 Embers
 ------
 https://minecraft.curseforge.com/projects/embers/files/2495586
+
+
+Ender Storage 1.8.+
+-------------------
+https://minecraft.curseforge.com/projects/ender-storage-1-8/files/2594243
+
+
+EqualDragons
+------------
+https://minecraft.curseforge.com/projects/equaldragons/files/2516748
 
 
 Fairy Lights
@@ -116,6 +141,11 @@ https://minecraft.curseforge.com/projects/farseek/files/2583091
 FlatBedrock Xplosion's Edition
 ------------------------------
 https://minecraft.curseforge.com/projects/flatbedrockx/files/2440978
+
+
+Food Expansion
+--------------
+https://minecraft.curseforge.com/projects/food-expansion/files/2573308
 
 
 Forestry
@@ -158,14 +188,29 @@ Hunger Persistence
 https://minecraft.curseforge.com/projects/hunger-persistence/files/2442629
 
 
+Immersive Engineering
+---------------------
+https://minecraft.curseforge.com/projects/immersive-engineering/files/2583282
+
+
+Iron Backpacks
+--------------
+https://minecraft.curseforge.com/projects/iron-backpacks/files/2564573
+
+
 Iron Chests
 -----------
 https://minecraft.curseforge.com/projects/iron-chests/files/2533664
 
 
+JustEnoughIDs
+-------------
+https://minecraft.curseforge.com/projects/jeid/files/2593280
+
+
 Just Enough Items
 -----------------
-https://minecraft.curseforge.com/projects/jei/files/2578467
+https://minecraft.curseforge.com/projects/jei/files/2591543
 
 
 Level Up HP
@@ -176,6 +221,11 @@ https://minecraft.curseforge.com/projects/level-up-hp/files/2501739
 LibrarianLib
 ------------
 https://minecraft.curseforge.com/projects/librarianlib/files/2589135
+
+
+LittleTiles
+-----------
+https://minecraft.curseforge.com/projects/littletiles/files/2595977
 
 
 Magic Bees
@@ -200,12 +250,12 @@ https://minecraft.curseforge.com/projects/mantle/files/2550550
 
 MrCrayfish's Furniture
 ----------------------
-https://minecraft.curseforge.com/projects/mrcrayfish-furniture-mod/files/2582719
+https://minecraft.curseforge.com/projects/mrcrayfish-furniture-mod/files/2593908
 
 
 Natura
 ------
-https://minecraft.curseforge.com/projects/natura/files/2553697
+https://minecraft.curseforge.com/projects/natura/files/2593539
 
 
 NoMoreRecipeConflict
@@ -215,7 +265,7 @@ https://minecraft.curseforge.com/projects/stimmedcow-nomorerecipeconflict/files/
 
 Not Enough Items
 ----------------
-https://minecraft.curseforge.com/projects/not-enough-items-1-8/files/2509851
+https://minecraft.curseforge.com/projects/not-enough-items-1-8/files/2594245
 
 
 Oreberries
@@ -230,7 +280,7 @@ https://minecraft.curseforge.com/projects/pams-harvestcraft/files/2560919
 
 PlayerRevive
 ------------
-https://minecraft.curseforge.com/projects/playerrevive/files/2550277
+https://minecraft.curseforge.com/projects/playerrevive/files/2591097
 
 
 Redstone Paste
@@ -259,7 +309,7 @@ https://minecraft.curseforge.com/projects/secretroomsmod/files/2561617
 
 Serene Seasons
 --------------
-https://minecraft.curseforge.com/projects/serene-seasons/files/2569832
+https://minecraft.curseforge.com/projects/serene-seasons/files/2597384
 
 
 Shadowfacts' Forgelin
@@ -282,6 +332,21 @@ SignEdit
 https://minecraft.curseforge.com/projects/signedit/files/2515029
 
 
+Simulated Nights
+----------------
+https://minecraft.curseforge.com/projects/simulated-nights/files/2453023
+
+
+Sit
+---
+https://minecraft.curseforge.com/projects/sit/files/2533371
+
+
+Skye's Donuts
+-------------
+https://minecraft.curseforge.com/projects/skyes-donuts/files/2514892
+
+
 Streams
 -------
 https://minecraft.curseforge.com/projects/streams/files/2568464
@@ -294,17 +359,17 @@ https://minecraft.curseforge.com/projects/terraqueous/files/2554193
 
 Thaumcraft
 ----------
-https://minecraft.curseforge.com/projects/thaumcraft/files/2587290
+https://minecraft.curseforge.com/projects/thaumcraft/files/2597126
 
 
 Thaumic Tinkerer
 ----------------
-https://minecraft.curseforge.com/projects/thaumic-tinkerer/files/2580372
+https://minecraft.curseforge.com/projects/thaumic-tinkerer/files/2596484
 
 
 ThutCore
 --------
-https://minecraft.curseforge.com/projects/thutcore/files/2559179
+https://minecraft.curseforge.com/projects/thutcore/files/2593445
 
 
 Thut's Elevators
@@ -324,9 +389,24 @@ https://minecraft.curseforge.com/projects/tinkers-tool-leveling/files/2570118
 
 Treecapitator
 -------------
-http://www.9minecraft.net/treecapitator-mod/ (1.12.2 version)
+https://minecraft.curseforge.com/projects/treecapitator-port/files/2443661
+
+
+UniDict
+-------
+https://minecraft.curseforge.com/projects/unidict/files/2581238
+
+
+VanillaFix
+----------
+https://minecraft.curseforge.com/projects/vanillafix/files/2574249
+
+
+WanionLib
+---------
+https://minecraft.curseforge.com/projects/wanionlib/files/2510015
 
 
 Wizardry Mod
 ------------
-https://minecraft.curseforge.com/projects/wizardry-mod/files/2589097
+https://minecraft.curseforge.com/projects/wizardry-mod/files/2591046
