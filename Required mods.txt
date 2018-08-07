@@ -93,14 +93,14 @@ ConnectedTexturesMod
 https://minecraft.curseforge.com/projects/ctm/files/2584026
 
 
+Construct's Armory
+------------------
+https://minecraft.curseforge.com/projects/constructs-armory/files/2586478
+
+
 Cooking for Blockheads
 ----------------------
 https://minecraft.curseforge.com/projects/cooking-for-blockheads/files/2593109
-
-
-Cravings
---------
-https://minecraft.curseforge.com/projects/cravings/files/2509860
 
 
 CreativeCore
@@ -248,9 +248,14 @@ Mantle
 https://minecraft.curseforge.com/projects/mantle/files/2550550
 
 
+MineColonies
+------------
+https://minecraft.curseforge.com/projects/minecolonies/files/2598911
+
+
 MrCrayfish's Furniture
 ----------------------
-https://minecraft.curseforge.com/projects/mrcrayfish-furniture-mod/files/2593908
+https://minecraft.curseforge.com/projects/mrcrayfish-furniture-mod/files/2589570
 
 
 Natura
