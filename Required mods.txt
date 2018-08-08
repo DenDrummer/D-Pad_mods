@@ -33,6 +33,16 @@ Baubles
 https://minecraft.curseforge.com/projects/baubles/files/2518667
 
 
+Better Questing
+---------------
+https://minecraft.curseforge.com/projects/better-questing/files/2581916
+
+
+Better Questing - Quest Book
+----------------------------
+https://minecraft.curseforge.com/projects/better-questing-quest-book/files/2539562
+
+
 Better Railroads
 ----------------
 https://minecraft.curseforge.com/projects/better-railroads/files/2518309
@@ -60,7 +70,7 @@ https://minecraft.curseforge.com/projects/botania/files/2554929
 
 BurnBabyBurn
 ------------
-https://minecraft.curseforge.com/projects/burnbabyburn/files/2585607
+https://minecraft.curseforge.com/projects/burnbabyburn/files/2598370
 
 
 Cheese
