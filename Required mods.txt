@@ -43,6 +43,11 @@ Better Questing - Quest Book
 https://minecraft.curseforge.com/projects/better-questing-quest-book/files/2539562
 
 
+Better Questing - Standard Expansion
+------------------------------------
+https://minecraft.curseforge.com/projects/better-questing-standard-expansion/files/2566315
+
+
 Better Railroads
 ----------------
 https://minecraft.curseforge.com/projects/better-railroads/files/2518309
